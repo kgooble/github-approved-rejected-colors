@@ -1,0 +1,14 @@
+{
+  "manifest_version": 2,
+ 
+  "name": "Github Approve Rejected Colors",
+  "version": "0.1.0",
+  "description": "Github approval rejection colours",
+ 
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "js": ["content.js"],
+    "matches": ["https://*.github.com/*/pulls*"]
+  }]
+ 
+}

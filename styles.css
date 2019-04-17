@@ -1,0 +1,22 @@
+.garc-strong-approved {
+  font-weight: bold!important;
+  background-color: #00ff00;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 2px;
+}
+.garc-approved {
+  font-weight: bold!important;
+  background-color: #bfffbf;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 2px;
+}
+
+.garc-changes-requested {
+  font-weight: bold!important;
+  background-color: #f59b9b;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-radius: 2px;
+}
